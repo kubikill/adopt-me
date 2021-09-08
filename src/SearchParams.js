@@ -34,7 +34,7 @@ const SearchParams = () => {
         }}
       >
         <label htmlFor="location">
-          location
+          Location
           <input
             id="location"
             onChange={(e) => setLocation(e.target.value)}
